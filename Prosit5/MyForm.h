@@ -37,7 +37,6 @@ namespace Prosit5 {
 
 	private: System::Windows::Forms::Label^ label1;
 	private: System::Windows::Forms::Button^ button1;
-
 	private: System::Windows::Forms::PictureBox^ pictureBox1;
 	private: System::Windows::Forms::CheckBox^ checkBox1;
 	private: System::Windows::Forms::MenuStrip^ menuStrip1;
